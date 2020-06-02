@@ -1,0 +1,4 @@
+add_executable(HamiltonLoop HamiltonLoop.cpp)
+add_executable(HamiltonPath HamiltonPath.cpp)
+add_executable(HamiltonPathStateCompression HamiltonPathStateCompression.cpp)
+add_executable(HamiltonPathDP.cpp HamiltonPathDP.cpp)
